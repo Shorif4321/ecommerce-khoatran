@@ -230,7 +230,7 @@ header nav .right-side{
 
     .categories-item {
         display: grid;
-        grid-template-columns: auto;
+        grid-template-columns: auto auto;
         justify-content: center;
     }
 

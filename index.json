@@ -1,0 +1,137 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Thịt",
+            "sku": "T",
+            "image": "https://grocerywatch.s3.amazonaws.com/market-category-img/thit.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=cscs3ImLdqjEFtsQ3uxyTAwU9Rs%3D&Expires=1686516355",
+            "sub_category": [
+                {
+                    "id": 1,
+                    "name": "Heo",
+                    "sku": "H",
+                    "image": "https://grocerywatch.s3.amazonaws.com/market-subcategory-img/heo.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=l3Ivc3ShoVKPUYRV975AhLDAuQc%3D&Expires=1686516355",
+                    "items": [
+                        {
+                            "id": 1,
+                            "name": "Ba Rọi Heo",
+                            "sku": "TH-1",
+                            "price": 20000,
+                            "unit": "gram",
+                            "count_per_quantity": 100,
+                            "special_label": null,
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/baroiheo.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=c%2B5Me8JjRmauMl9HZQsMr%2Frebls%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230606-0"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Sườn Non Heo",
+                            "sku": "TH-2",
+                            "price": 25000,
+                            "unit": "gram",
+                            "count_per_quantity": 100,
+                            "special_label": null,
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/suonnonheo.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=l3hFC%2FADX2vWoujxOY%2FG6s1UplE%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230606-0"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Sườn Non Heo",
+                            "sku": "TH-2",
+                            "price": 25000,
+                            "unit": "gram",
+                            "count_per_quantity": 100,
+                            "special_label": null,
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/suonnonheo.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=l3hFC%2FADX2vWoujxOY%2FG6s1UplE%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230606-0"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Heo",
+                    "sku": "H",
+                    "image": "https://grocerywatch.s3.amazonaws.com/market-subcategory-img/heo.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=l3Ivc3ShoVKPUYRV975AhLDAuQc%3D&Expires=1686516355",
+                    "items": [
+                        {
+                            "id": 4,
+                            "name": "Ba Rọi Heo",
+                            "sku": "TH-1",
+                            "price": 20000,
+                            "unit": "gram",
+                            "count_per_quantity": 100,
+                            "special_label": null,
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/baroiheo.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=c%2B5Me8JjRmauMl9HZQsMr%2Frebls%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230606-0"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Sườn Non Heo",
+                            "sku": "TH-2",
+                            "price": 25000,
+                            "unit": "gram",
+                            "count_per_quantity": 100,
+                            "special_label": null,
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/suonnonheo.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=l3hFC%2FADX2vWoujxOY%2FG6s1UplE%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230606-0"
+                        }
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rau củ",
+            "sku": "RC",
+            "image": "https://grocerywatch.s3.amazonaws.com/market-category-img/raucu.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=MM%2FBL4A2rEbc7B3AWHGdKieyKGk%3D&Expires=1686516355",
+            "sub_category": [
+                {
+                    "id": 3,
+                    "name": "Rau củ",
+                    "sku": "RC",
+                    "image": "https://grocerywatch.s3.amazonaws.com/market-subcategory-img/raucu.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=x3Tyes3sb%2FGqgNf14XOCkMsWKdU%3D&Expires=1686516355",
+                    "items": [
+                        {
+                            "id": 6,
+                            "name": "Cà rốt",
+                            "sku": "RC-3",
+                            "price": 7000,
+                            "unit": "piece",
+                            "count_per_quantity": 1,
+                            "special_label": "",
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/carot.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=lUN%2FmNeybC5BYQeTBzbw9j5ogeQ%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230608-0"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Rau củ",
+                    "sku": "RC",
+                    "image": "https://grocerywatch.s3.amazonaws.com/market-subcategory-img/raucu.png?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=x3Tyes3sb%2FGqgNf14XOCkMsWKdU%3D&Expires=1686516355",
+                    "items": [
+                        {
+                            "id": 7,
+                            "name": "Cà rốt",
+                            "sku": "RC-3",
+                            "price": 7000,
+                            "unit": "piece",
+                            "count_per_quantity": 1,
+                            "special_label": "",
+                            "image": "https://grocerywatch.s3.amazonaws.com/market-item-img/carot.jpg?AWSAccessKeyId=AKIAZ2J7A4ZO4QH4YN4Q&Signature=lUN%2FmNeybC5BYQeTBzbw9j5ogeQ%3D&Expires=1686516355",
+                            "is_active": true,
+                            "file_version": "20230608-0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
